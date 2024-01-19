@@ -1,0 +1,14 @@
+ItemName_FR = {
+	ItemName_Base.93fordCF8000Brushes = "Elgin Brosses de balayeuse",
+	ItemName_Base.93fordCF8000Bumper0 = "93 Ford CF8000 Pare-chocs",
+	ItemName_Base.93fordCF8000Door2 = "93 Ford CF8000 Portière",
+	ItemName_Base.93fordCF8000DoubleTires2 = "93 Ford CF8000 Pneus doubles",
+	ItemName_Base.93fordCF8000EngineDoor2 = "93 Ford CF8000 Capot",
+	ItemName_Base.93fordCF8000Muffler0 = "93 Ford CF8000 Silencieux",
+	ItemName_Base.93fordCF8000RearWindshield2 = "93 Ford CF8000 Pare-brise arrière",
+	ItemName_Base.93fordCF8000Seat2 = "93 Ford CF8000 Siège",
+	ItemName_Base.93fordCF8000SideWindow2 = "93 Ford CF8000 Vitre latérale",
+	ItemName_Base.93fordCF8000Tire2 = "93 Ford CF8000 Pneu",
+	ItemName_Base.93fordCF8000Trunk2 = "Ne faites pas apparaitre de coffres",
+	ItemName_Base.93fordCF8000Windshield2 = "93 Ford CF8000 Pare-brise",
+}
