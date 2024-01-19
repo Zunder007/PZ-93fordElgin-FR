@@ -1,0 +1,12 @@
+Sandbox_FR = {
+    Sandbox_StreetSweeper = "KI5 | '93 Ford CF-8000 Elgin Balayeuse de voirie",
+
+    Sandbox_StreetSweeper_AllowItems = "Balayer les objets",
+    Sandbox_StreetSweeper_AllowCorpses = "Balayer les cadavres",
+    Sandbox_StreetSweeper_AllowTiles = "Supprimer les zones mises en liste blanche",
+    Sandbox_StreetSweeper_SpriteWhitelist = "Liste blanche des sprites à supprimer (a;b;c)",
+    Sandbox_StreetSweeper_SpriteWhitelist_tooltip = "Vous pouvez lister les noms exacts des sprites ou le début des packs de zones. Séparez-les par ;",
+    Sandbox_StreetSweeper_AllowBlood = "Nettoyer le sang",
+    Sandbox_StreetSweeper_AllowAshes = "Balayer les cendres",
+    Sandbox_StreetSweeper_AllowGrime = "Enlever la crasse",
+}
