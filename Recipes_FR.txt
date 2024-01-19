@@ -1,0 +1,9 @@
+Recipes_FR = {
+	Recipe_Make_CF8K_Bumper = "Fabriquer Pare-chocs",
+	Recipe_Make_CF8K_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_CF8K_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_CF8K_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_CF8K_Side_Window_1 = "Fabriquer Vitre latérale",
+	Recipe_Make_CF8K_Tire = "Fabriquer Pneu",
+	Recipe_Make_CF8K_Windshield = "Fabriquer Pare-brise",
+}
