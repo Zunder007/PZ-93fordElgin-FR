@@ -1,0 +1,16 @@
+IG_UI_FR = {
+	IGUI_VehicleName93fordElgin = "'93 Ford CF8000 Elgin Balayeuse de voirie"
+	IGUI_VehicleName93fordElginSpec = "'93 Ford CF8000 Elgin Balayeuse de voirie Special"
+
+	IGUI_VehiclePartCF8KTrunk = "Stockage des déchets",
+	IGUI_VehiclePartCF8KBumperFront = "Pare-chocs",
+	IGUI_VehiclePartCF8KBrushes = "Brosses de balayeuse",
+
+	IGUI_StreetSweeper_TrunkFull = "Plus de place dans le stockage des déchets",
+	IGUI_StreetSweeper_SpaceRemaining = "%1 restant dans le stockage des déchets",
+	IGUI_StreetSweeper_AutoDeleteOn = "Les nouveaux éléments seront automatiquement supprimés",
+	IGUI_StreetSweeper_AutoDeleteOff = "Les nouveaux éléments seront mis dans le stockage des déchets",
+	IGUI_StreetSweeper_ToggleAutoDelete = "Activer la suppression automatique",
+
+	IGUI_CraftCategory_CF8K = "'93 Ford CF8000 Elgin Balayeuse de voirie",
+}
