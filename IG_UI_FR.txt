@@ -13,4 +13,9 @@ IG_UI_FR = {
 	IGUI_StreetSweeper_ToggleAutoDelete = "Activer la suppression automatique",
 
 	IGUI_CraftCategory_CF8K = "'93 Ford CF8000 Elgin Balayeuse de voirie",
+
+	IGUI_VehiclePartCF8KWindshieldArmor = "Blindage de Pare-brise",
+	IGUI_VehiclePartCF8KWindshieldRearArmor = "Blindage de Pare-brise arrière",
+	IGUI_VehiclePartCF8KWindowFrontLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartCF8KWindowFrontRightArmor = "Blindage de vitre avant droite",
 }
