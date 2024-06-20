@@ -6,4 +6,18 @@ Recipes_FR = {
 	Recipe_Make_CF8K_Side_Window_1 = "Fabriquer Vitre latérale",
 	Recipe_Make_CF8K_Tire = "Fabriquer Pneu",
 	Recipe_Make_CF8K_Windshield = "Fabriquer Pare-brise",
+
+	Recipe_Dismantle_93_Ford_CF8000_Armor = "Démonter Blindage",
+	Recipe_Dismantle_93_Ford_CF8000_Door = "Démonter Portière",
+	Recipe_Dismantle_93_Ford_CF8000_Double_Tires = "Démonter Pneus doubles",
+	Recipe_Dismantle_93_Ford_CF8000_Lid = "Démonter Coffre",
+	Recipe_Dismantle_93_Ford_CF8000_Misc = "Démonter Divers",
+	Recipe_Dismantle_93_Ford_CF8000_Seat = "Démonter Siège",
+	Recipe_Dismantle_93_Ford_CF8000_Tire = "Démonter Pneu",
+	Recipe_Make_93_Ford_CF8000_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_93_Ford_CF8000_Front_Window_Armor = "Fabriquer Blindage",
+	Recipe_Make_93_Ford_CF8000_Rear_Windshield_Armor = "Fabriquer Blindage",
+	Recipe_Make_93_Ford_CF8000_Sweeping_Brushes = "Fabriquer Brosses",
+	Recipe_Make_93_Ford_CF8000_Tire = "Fabriquer Pneu",
+	Recipe_Make_93_Ford_CF8000_Windshield_Armor = "Fabriquer Blindage",
 }
