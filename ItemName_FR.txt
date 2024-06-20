@@ -11,4 +11,9 @@ ItemName_FR = {
 	ItemName_Base.93fordCF8000Tire2 = "93 Ford CF8000 Pneu",
 	ItemName_Base.93fordCF8000Trunk2 = "Ne faites pas apparaitre de coffres",
 	ItemName_Base.93fordCF8000Windshield2 = "93 Ford CF8000 Pare-brise",
+
+	ItemName_Base.93fordCF8000BumperA = "93 Ford CF8000 Pare-chocs renforcé",
+	ItemName_Base.93fordCF8000FrontWindowArmor = "93 Ford CF8000 Blindage de vitre avant",
+	ItemName_Base.93fordCF8000WindshieldArmor = "93 Ford CF8000 Blindage de Pare-brise",
+	ItemName_Base.93fordCF8000WindshieldRearArmor = "93 Ford CF8000 Blindage de Pare-brise arrière",
 }
